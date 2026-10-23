@@ -1,4 +1,4 @@
-tensorflow==2.15.0  # (or whichever compatible version you used)
+tensorflow-cpu==2.15.0  # (or whichever compatible version you used)
 streamlit
 numpy
 pillow
