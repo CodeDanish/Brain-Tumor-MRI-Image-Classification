@@ -1,0 +1,7 @@
+tensorflow==2.15.0  # (or whichever compatible version you used)
+streamlit
+numpy
+pillow
+scikit-learn
+matplotlib
+seaborn
